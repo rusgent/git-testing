@@ -1,2 +1,2 @@
-def app(text):
-    return text.upper()
+def app(t):
+    return t.upper()
